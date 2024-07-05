@@ -74,6 +74,9 @@
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/backpack_3d.lua
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/demo_2d.rviz
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/demo_3d.rviz
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/my_assets_writer_backpack_3d.lua
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/my_backpack_3d.lua
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/my_demo_3d.rviz
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/online_xiaoqiang_3d_localization.lua
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/online_xiaoqiang_3d.lua
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/configuration_files/pr2.lua
@@ -111,6 +114,9 @@
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/demo_xiaoqiang_rslidar_scan.launch
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/grpc_demo_backpack_2d.launch
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/grpc_demo_backpack_2d_localization.launch
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/my_assets_writer_backpack_3d.launch
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/my_backpack_3d.launch
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/my_demo_backpack_3d.launch
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/offline_backpack_2d.launch
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/offline_backpack_3d.launch
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/launch/offline_xiaoqiang_3d.launch
@@ -134,6 +140,7 @@
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/backpack_2d.urdf
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/backpack_3d.urdf
+#/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/my_backpack_3d.urdf
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/rplidar_2d0.urdf
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/rplidar_2d.urdf
 #/home/dt/project/WLR720_ws/src/cartographer_ros/cartographer_ros/urdf/rslidar_2d.urdf

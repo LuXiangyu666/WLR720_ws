@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/protoc.dir/home/dt/project/WLR720_ws/Documents/protobuf/src/google/protobuf/compiler/main.cc.o  -o protoc  libprotobuf.a libprotoc.a libprotobuf.a -lpthread /usr/lib/x86_64-linux-gnu/libz.so 

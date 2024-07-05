@@ -1,0 +1,8 @@
+prefix=/home/dt/project/WLR720_ws/install
+
+Name: vanjee_lidar
+Description: Description of vanjee_lidar
+Version: 1.2.0
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lvanjee_lidar
+Requires: angles nodelet pcl_ros roscpp sensor_msgs tf vanjee_driver vanjee_msgs dynamic_reconfigure pcl_conversions

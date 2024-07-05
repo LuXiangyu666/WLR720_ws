@@ -1,0 +1,10 @@
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/install/strip.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/install/local.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/install.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/list_install_components.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/rebuild_cache.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/edit_cache.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/protoc.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/libprotobuf.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/libprotoc.dir
+/home/dt/project/WLR720_ws/Documents/protobuf/build/CMakeFiles/libprotobuf-lite.dir

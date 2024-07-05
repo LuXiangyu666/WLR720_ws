@@ -1,0 +1,2 @@
+WLR-720-ROS/src/vanjee_driver:WLR-720-ROS/src/vanjee_lidar:WLR-720-ROS/src/vanjee_msgs:cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs:cartographer_ros/cartographer_rviz
+-DCATKIN_DEVEL_PREFIX=/home/dt/project/WLR720_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dt/project/WLR720_ws/install -G Unix Makefiles
